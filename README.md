@@ -1,1 +1,1 @@
-# smartime-dedicated-runner
+# dedicated-runner
